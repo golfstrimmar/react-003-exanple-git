@@ -1,0 +1,19 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(12, 12, 12, 0.466);
+  padding: 5rem 0 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.modal-body {
+  width: 60rem;
+  height: 20rem;
+  border-radius: .5rem;
+  background: azure;
+  padding: 2rem;
+}
